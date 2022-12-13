@@ -1,5 +1,6 @@
 # JavaScript-Daily-Study
 
+in this reposetory I study javaScript basics and advanced parts, 
 ## dayley repeted study for 
  - algorithms
  - data structures
@@ -8,6 +9,6 @@
  
  ## Problem solving i have done with solutions > I use the next algorethms 
  
-1- binary search array with divide and conquer
+- binary search array with divide and conquer
  
  
